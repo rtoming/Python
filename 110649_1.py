@@ -23,7 +23,7 @@
 # Veenduge, et Teie programm töötab ja seejärel laadige koostatud programm siia üles.
 
 # Esimene osa:
-print ("Tere! Hakkame programmeerima!")
+print ("Hakkame programmeerima!")
 
 # Teine osa:
 aasta = int (2026)
