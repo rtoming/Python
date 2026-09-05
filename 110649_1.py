@@ -29,7 +29,7 @@ print ("Hakkame programmeerima!")
 aasta = int (2026)
 koht = str ("Tartu ")
 lause_keskosa = str (" on Eesti noortepealinn.")
-lause = str (aasta) + lause_keskosa + koht
+lause = str (aasta) + str (lause_keskosa) + str (koht)
 print (lause)
 
 # Kolmas osa:
