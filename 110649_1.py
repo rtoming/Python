@@ -22,4 +22,18 @@
 # Näide: 123456_1.py
 # Veenduge, et Teie programm töötab ja seejärel laadige koostatud programm siia üles.
 
+# Esimene osa:
 print ("Tere! Hakkame programmeerima!")
+
+# Teine osa:
+aasta = int (2026)
+koht = str ("Tartu ")
+lause_keskosa = str (" on Eesti noortepealinn.")
+lause = str (aasta) + lause_keskosa + koht
+print (lause)
+
+# Kolmas osa:
+alus = int (input ("Sisesta astme alus: "))
+astendaja = int (input ("Sisesta astendaja: "))
+tulemus = alus ** astendaja
+print ("Tulemus on: ", tulemus)
