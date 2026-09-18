@@ -10,6 +10,7 @@
 # 4. Vesi on jääs.
 
 veetemperatuur = int(input("Sisesta vee temperatuur: "))
+
 if veetemperatuur < 0:
     print("Vesi on jääs!")
 elif veetemperatuur < 100:
