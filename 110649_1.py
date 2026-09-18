@@ -2,7 +2,7 @@
 # Ülesanne koosneb kolmest osast. Kõik ülesande tegevused peavad olema esitatud ühes käivitatavas Pythoni skriptis:
 
 # Esimene osa:
-#  Koostada programm, mis väljastab ekraanile teksti: Hakkame programmeerima!
+# Koostada programm, mis väljastab ekraanile teksti: Hakkame programmeerima!
 
 # Teine osa:
 # 1. real luuakse muutuja nimega aasta ning antakse sellele väärtuseks 2026. (arvuna);
