@@ -34,10 +34,11 @@ elif veetemperatuur > 100:
 # Pange tähele, et vastus (jah või ei) võib olla kirjutatud ka suurte tähtedega.
 
 pikkus = int(input("Sisesta enda pikkus 'cm': "))
-pilet = str(input("Kas sul on pilet JAH/EI? "))
-kaart = str(input("Kas sul on kaelakaart JAH/EI? "))
+pilet = str(input("Kas sul on pilet JAH/EI? ").upper())
+kaart = str(input("Kas sul on kaelakaart JAH/EI? ").upper())
 
 if pikkus <= 190 and (pilet == "JAH" or kaart == "JAH"):
     print("Reisija pääseb lennule!")
 else:
     print("Reisija ei pääse lennule")
+input("Vajuta Enter, et lõpetada...")
