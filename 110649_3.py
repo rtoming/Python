@@ -34,6 +34,7 @@ visked = int(input("Mitu viset soovid teha? "))
 for i in range(visked):
     tulemus = random.randint(1, 6)
     print(tulemus)
+print()
 
 
 
@@ -49,3 +50,4 @@ while i < ruut:
     i = i + 1
 
 print(nisuterad)
+input("Vajuta Enter, et lõpetada...")
