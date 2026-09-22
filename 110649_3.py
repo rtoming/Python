@@ -50,4 +50,6 @@ while i < ruut:
     i = i + 1
 
 print(nisuterad)
+print()
+
 input("Vajuta Enter, et lõpetada...")
